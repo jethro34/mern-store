@@ -1,0 +1,28 @@
+# Node modules
+/node_modules
+/client/node_modules
+
+# Environment variables
+.env
+client/.env
+
+# Build and cache files
+/build
+/client/build
+.cache
+client/.cache
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
